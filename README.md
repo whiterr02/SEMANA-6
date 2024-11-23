@@ -15,3 +15,5 @@
 ![f](https://github.com/user-attachments/assets/e4bbac0a-719f-4c99-8bf3-341e2e2e6bfe)
 
 ![g](https://github.com/user-attachments/assets/f0f7dde8-fd47-4af3-8e28-53ca5dad4f1a)
+
+###### Obs: Cambio de SO a Windows
